@@ -3,5 +3,5 @@ pandas
 plotly
 seaborn
 matplotlib
-sklearn
+scikit-learn
 joblib
